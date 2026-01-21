@@ -1,5 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQGf92gjjtbBkg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1687996800&v=beta&t=kBalXjsOxtL4yiKhyCmS6hE8z-4@PKWhLzPkagIzks_)
-
+ 
 
 <h1 align="center">Hi 👋, I'm Selçuk Özcan</h1>
 <h3 align="center">A passionate app developer from Turkey.</h3>
