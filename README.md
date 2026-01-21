@@ -1,4 +1,4 @@
- [![MasterHead](https://www.marieclaire.com/culture/news/a21250/jon-snow-sword/)
+ [![MasterHead]( )
 
 <h1 align="center">Hi 👋, I'm Selçuk Özcan</h1>
 <h3 align="center">A passionate app developer from Turkey.</h3>
