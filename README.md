@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **FPS Games**
 
-- 📫 How to reach me **sanch4zr1ck865@gmail.com**
+- 📫 How to reach me **selcukozcan4774@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
